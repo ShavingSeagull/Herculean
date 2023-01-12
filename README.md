@@ -2,13 +2,12 @@
 
 [![Build Status](https://travis-ci.org/ShavingSeagull/Herculean.svg?branch=master)](https://travis-ci.org/ShavingSeagull/Herculean)
 
-###### (Pull requests will be ignored. This is an educational project and needs to remain a solo effort.)
 
 # HERCULEAN
 
 ## Overview
 
-**You can find the live site on [Heroku](https://herculean-store.herokuapp.com/)**
+**You can find the live site on [Render](https://herculean-store.onrender.com/)**
 
 ### Why was it created?
 
