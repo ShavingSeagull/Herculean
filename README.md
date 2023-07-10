@@ -7,7 +7,7 @@
 
 ## Overview
 
-**You can find the live site on [Render](https://herculean-store.onrender.com/)**
+**You can find the live site on [Render](https://herculean-store.onrender.com/)** (Render's free tier is usually quite a slow loader)
 
 ### Why was it created?
 
